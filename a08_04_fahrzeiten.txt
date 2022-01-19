@@ -1,0 +1,64 @@
+Bus6;Welfenstrasse;Weidenbornstrasse;1
+S9;Kelsterbach;Flughafen;6
+Bus6;Adelheidstrasse;Landeshaus;1
+Bus6;Platz der Deutschen Einheit;LuisenForum;1
+S9;Wiesbaden Ost;Mainz-Kastel;4
+S9;Ruesselsheim Opelwerk;Ruesselsheim;3
+Bus6;Ruhbergstrasse;Rothstrasse;1
+Bus6;Mudra Kaserne;Ruthof;1
+Bus6;Wiesbaden Ost;Dyckerhoffstrasse;1
+U4;Festhalle/Messe;Bockenheimer Warte;2
+S9;Hanau-Steinheim;Hanau Hauptbahnhof;2
+U4;Willy-Brandt-Platz;Hauptbahnhof;2
+U4;Konstablerwache;Dom/Roemer;1
+U4;Gwinnerstrasse;Schaefflestrasse;2
+Bus6;Muensterplatz;Mainz Hauptbahnhof;2
+S9;Ledermuseum;Marktplatz;2
+S9;WI Hauptbahnhof;Wiesbaden Ost;4
+S9;Ostendstrasse;Muehlberg;2
+U4;Bornheim Mitte;Hoehenstrasse;1
+Bus6;Nordfriedhof;Wolkenbruch;1
+Bus6;Landeshaus;Wiesbaden Hauptbahnhof;2
+S9;Frankfurt Hauptbahnhof tief;Taunusanlage;2
+U4;Dom/Roemer;Willy-Brandt-Platz;1
+Bus6;Wiesbaden Hauptbahnhof;Welfenstrasse;1
+S9;Offenbach Ost;Offenbach Bahnhof;4
+S9;Dietesheim;Hanau-Steinheim;3
+Bus6;Wolkenbruch;Ruhbergstrasse;1
+S9;Kaiserlei;Ledermuseum;2
+S9;Mainz-Bischofsheim;Ruesselsheim Opelwerk;4
+S9;Raunheim;Kelsterbach;5
+Bus6;Michelsberg;Platz der Deutschen Einheit;2
+S9;Muehlberg;Kaiserlei;3
+S9;Marktplatz;Offenbach Ost;3
+Bus6;Bauhofstrasse;Neubrunnenplatz;1
+U4;Hauptbahnhof;Festhalle/Messe;1
+Bus6;Adlerstrasse;Michelsberg;2
+U4;Hessen-Center;Kruppstrasse;1
+Bus6;Neubrunnenplatz;Muensterplatz;1
+S9;Stadion;Niederrad;3
+Bus6;LuisenForum;Adelheidstrasse;1
+Bus6;Ruthof;Johannes-Gossner-Strasse;1
+U4;Seckbacher Landstrasse;Bornheim Mitte;1
+U4;Kruppstrasse;Gwinnerstrasse;1
+Bus6;Kasteler Strasse;Wiesbaden Ost;1
+S9;Flughafen;Stadion;4
+S9;Taunusanlage;Hauptwache;2
+Bus6;Brueckenkopf;Landtag;2
+Bus6;Eleonorenstrasse;Brueckenkopf;2
+U4;Merianplatz;Konstablerwache;2
+Bus6;Weidenbornstrasse;Freizeitbad;1
+Bus6;Dyckerhoffstrasse;Mudra Kaserne;1
+Bus6;Johannes-Gossner-Strasse;Eleonorenstrasse;2
+Bus6;Freizeitbad;Kasteler Strasse;3
+S9;Niederrad;Frankfurt Hauptbahnhof tief;5
+U4;Hoehenstrasse;Merianplatz;2
+S9;Offenbach Bahnhof;Dietesheim;2
+Bus6;Landtag;Bauhofstrasse;1
+S9;Konstablerwache;Ostendstrasse;1
+U4;Schaefflestrasse;Seckbacher Landstrasse;7
+S9;Mainz-Kastel;Mainz-Bischofsheim;7
+S9;Ruesselsheim;Raunheim;3
+S9;Hauptwache;Konstablerwache;2
+Bus6;Rothstrasse;Adlerstrasse;2
+U4;Enkheim;Hessen-Center;1

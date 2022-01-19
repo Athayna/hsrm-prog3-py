@@ -1,6 +1,5 @@
 import sys
 
-
 def zaelen(file):
     file = open(file).read()
     words = 1
