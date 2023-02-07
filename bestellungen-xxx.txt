@@ -1,0 +1,7 @@
+65197;Zorkel;10
+20113;Meier;42
+65197;Meier;17
+65197;Huber;85
+47368;Glosema;5
+20113;Arlykkendorf;16
+65197;Meier;50

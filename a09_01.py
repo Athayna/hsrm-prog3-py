@@ -1,0 +1,1 @@
+a1 = list(filter(lambda x: x % 2 == 0, list(map(lambda x: x ** 3, range(1,11)))))
