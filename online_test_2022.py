@@ -4,9 +4,9 @@
 # Bitte ergaenzen Sie Ihre persoenlichen Angaben
 # jeweils HINTER(!) dem Pfeil
 #
-# Vorname ---------> Beate
-# Nachname --------> Arnold
-# Matrikelnummer --> 1248032
+# Vorname ---------> 
+# Nachname --------> 
+# Matrikelnummer --> 
 #
 # Mit der Abgabe Ihrer Loesung im versichern Sie,
 # "keine unerlaubte Hilfe anderer Personen in Anspruch genommen und 
